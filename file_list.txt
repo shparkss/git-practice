@@ -1,0 +1,4 @@
+total 0
+-rw-r--r-- 1 User 197121 0 Oct 19 20:20 file_list.txt
+-rw-r--r-- 1 User 197121 0 Oct 19 20:15 hello.txt
+drwxr-xr-x 1 User 197121 0 Oct 19 20:18 new_dir/
